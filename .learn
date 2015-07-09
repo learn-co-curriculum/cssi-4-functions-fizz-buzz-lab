@@ -1,7 +1,7 @@
 languages:
-  - Python
+  - python
 tags:
-  - cssi, python
+  - cssi
   - variables
   - math operators
   - conditional statements
@@ -9,5 +9,6 @@ tags:
   - loops
   - functions
   - dictionaries
+  - python
 type:
   - reference notes
