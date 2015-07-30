@@ -1,9 +1,4 @@
----
-tags: intro
-languages: python
-week: 1
-prereqs: methods, basic logic
----
+
 
 # Test Driving FizzBuzz
 
