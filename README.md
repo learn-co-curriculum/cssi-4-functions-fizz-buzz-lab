@@ -17,3 +17,5 @@ Before we look at the Python Unit Test syntax, let's just express our tests natu
 1. We expect fizzbuzz(3) to return "Fizz"
 2. We expect fizzbuzz(5) to return "Buzz"
 3. We expect fizzbuzz(15) to return "FizzBuzz"
+
+<a href='https://learn.co/lessons/cssi-4-functions-fizz-buzz-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
