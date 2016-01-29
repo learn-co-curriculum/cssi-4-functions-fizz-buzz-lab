@@ -18,4 +18,4 @@ Before we look at the Python Unit Test syntax, let's just express our tests natu
 2. We expect fizzbuzz(5) to return "Buzz"
 3. We expect fizzbuzz(15) to return "FizzBuzz"
 
-<a href='https://learn.co/lessons/cssi-4-functions-fizz-buzz-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-functions-fizz-buzz-lab' title='Test Driving FizzBuzz'>Test Driving FizzBuzz</a> on Learn.co and start learning to code for free.</p>
